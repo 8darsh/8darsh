@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8darsh&label=Profile%20views&color=0e75b6&style=flat" alt="8darsh" /> </p>
 
-- 🔭 I’m currently working on https://github.com/8darsh/Dishlicious
+- 🔭 I’m currently working on [Dishlicious](https://github.com/8darsh/Dishlicious)
 
 - 💬 Ask me about **Swift,UiKit**
 

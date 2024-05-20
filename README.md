@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MessageHive](https://github.com/8darsh/MessageHive)
 
-- 💬 Ask me about **Swift,UiKit**
+- 💬 Ask me about **Swift,UiKit,SwitUI,XCode,CoreData**
 
 - 📫 How to reach me **adarsingh2002@gmail.com**
 
